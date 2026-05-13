@@ -1,0 +1,1 @@
+Terraform created this file to simulate infrastructure for my DevOps final project.
